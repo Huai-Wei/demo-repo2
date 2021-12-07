@@ -5,13 +5,11 @@ Some text
 ## local development
 
 1. open index.html in your browser.
+2. Have fun.
 
-<<<<<<< HEAD
 ## quick test
 
 Hellow world.
-=======
 ## main quick test
 
 cooooool.
->>>>>>> main
